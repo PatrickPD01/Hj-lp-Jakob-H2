@@ -1,0 +1,7 @@
+C:\Users\patr7775\Desktop\Hjælp Jakob\Hjælp Jakob\bin\Debug\Hjælp Jakob.exe.config
+C:\Users\patr7775\Desktop\Hjælp Jakob\Hjælp Jakob\bin\Debug\Hjælp Jakob.exe
+C:\Users\patr7775\Desktop\Hjælp Jakob\Hjælp Jakob\bin\Debug\Hjælp Jakob.pdb
+C:\Users\patr7775\Desktop\Hjælp Jakob\Hjælp Jakob\obj\Debug\Hjælp Jakob.csproj.AssemblyReference.cache
+C:\Users\patr7775\Desktop\Hjælp Jakob\Hjælp Jakob\obj\Debug\Hjælp Jakob.csproj.CoreCompileInputs.cache
+C:\Users\patr7775\Desktop\Hjælp Jakob\Hjælp Jakob\obj\Debug\Hjælp Jakob.exe
+C:\Users\patr7775\Desktop\Hjælp Jakob\Hjælp Jakob\obj\Debug\Hjælp Jakob.pdb
